@@ -1,0 +1,16 @@
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\MetodyObliczeniowe.exe
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\MetodyObliczeniowe.deps.json
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\MetodyObliczeniowe.runtimeconfig.json
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\MetodyObliczeniowe.runtimeconfig.dev.json
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\MetodyObliczeniowe.dll
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\ref\MetodyObliczeniowe.dll
+D:\Programowanie\MetodyObliczeniowe\bin\Debug\net5.0\MetodyObliczeniowe.pdb
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.csprojAssemblyReference.cache
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.AssemblyInfoInputs.cache
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.AssemblyInfo.cs
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.csproj.CoreCompileInputs.cache
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.dll
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\ref\MetodyObliczeniowe.dll
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.pdb
+D:\Programowanie\MetodyObliczeniowe\obj\Debug\net5.0\MetodyObliczeniowe.genruntimeconfig.cache

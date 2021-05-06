@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L17VVuFsoloIAhL/D3R7atBoYhGXvMHWl2gCluVPK3kfSGsmQjQ/T0xNqteq0I2zUreVnxk96/W7P1wcc00uaw==",
+  "success": true,
+  "projectFilePath": "D:\\Programowanie\\MetodyObliczeniowe\\MetodyObliczeniowe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaq13\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zaq13\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zaq13\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
