@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZAFUdw/PPh9GWElZtZGp99Zr0bbja38bPGGN6Si3Br6PXwAB4WJ+tmgBlEgtHaU2yyLtHHbTHDalSUwoiW93yw==",
+  "success": true,
+  "projectFilePath": "D:\\Programowanie\\Interpolacja\\Interpolacja.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zaq13\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zaq13\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\zaq13\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\Interpolacja.exe
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\Interpolacja.deps.json
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\Interpolacja.runtimeconfig.json
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\Interpolacja.runtimeconfig.dev.json
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\Interpolacja.dll
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\ref\Interpolacja.dll
+D:\Programowanie\Interpolacja\bin\Debug\net5.0\Interpolacja.pdb
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.csprojAssemblyReference.cache
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.AssemblyInfoInputs.cache
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.AssemblyInfo.cs
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.csproj.CoreCompileInputs.cache
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.dll
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\ref\Interpolacja.dll
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.pdb
+D:\Programowanie\Interpolacja\obj\Debug\net5.0\Interpolacja.genruntimeconfig.cache
