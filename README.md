@@ -1,6 +1,6 @@
 # Cmpttnlmethods
 Simple computational algorithms created for the needs of classes during studies:  
-**Approximation**  
+Main => **Approximation**  
 **Interpolation**  
 **Integration**  
 
